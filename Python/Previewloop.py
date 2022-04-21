@@ -7,7 +7,7 @@ def login():
     return 'okllll'
 
 def replace():
-    return 'replaace'
+    return 'demo 冲突'
 
 app.add_template_filter()
 
