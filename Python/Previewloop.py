@@ -14,3 +14,4 @@ app.add_template_filter()
 
 if __name__ == '__main__':
     app.run()
+    print("master-game")
