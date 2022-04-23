@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}父模板{% endblock %}</title>
+    <style>
+        #middle{
+            height: 900px;
+        }
+        #foot{
+            height: 900px;
+        }
+    </style>
+</head>
+<body>
+<div id="head">
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+    </ul>
+</div>
+<div id="middle">
+    {% block middle %}
+        这是一个中部盒子
+    {% endblock %}
+</div>
+<div id="foot">
+    这是一个底部盒子
+</div>
+{#<table>#}
+{#    {% for i in list %}#}
+{#        <tr>#}
+{#        <td>{{ i }}</td>#}
+{#        </tr>#}
+{#    {% endfor %}#}
+{#</table>#}
+{#<table>#}
+{#    {% for i in list %}#}
+{#        {% if i|length>=3 %}#}
+{#            <tr>#}
+{#            <td>{{ i }}</td>#}
+{#            </tr>#}
+{#        {% endif %}#}
+{#    {% endfor %}#}
+{#</table>#}
+{##}
+{#<table border="1" cellpadding="0" cellspacing="0" width="50%">#}
+{#    {% for i in list %}#}
+{#            <tr {% if loop.first %}style="background-color: #ff005d" {% endif %}>#}
+{#                <td>{{ loop.length }}</td>#}
+{#                <td>{{ i.username }}</td>#}
+{#                <td>{{ i.password }}</td>#}
+{#            </tr>#}
+{#    {% endfor %}#}
+{#</table>#}
+</body>
+</html>
