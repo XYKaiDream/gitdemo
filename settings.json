@@ -1,0 +1,16 @@
+{
+    "git.autofetch": true,
+    "workbench.colorTheme": "Default Dark+",
+    "git.ignoreLegacyWarning": true,
+    "code-runner.runInTerminal": true,
+    "java.help.showReleaseNotes": false,
+    "java.jdt.ls.java.home":"/export/jdk-11.0.15.1",
+    "java.configuration.runtimes": [
+        {
+          "name": "JavaSE-11",
+          "path": "/export/jdk-11.0.15.1",
+          "default": true
+        },
+      ],
+      "git.enableSmartCommit": true
+}

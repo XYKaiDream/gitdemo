@@ -1,0 +1,49 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/.2259c05aab25bb7a3330fba314a06f0fefc23e1a-audit.json",
+    "files": [
+        {
+            "date": 1653393975751,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-24",
+            "hash": "7b0a093447f37e3fbddf8e932a1232cb"
+        },
+        {
+            "date": 1653400143885,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-24.1",
+            "hash": "365634d712f468bc1ecc835b890b6555"
+        },
+        {
+            "date": 1653442556959,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-25",
+            "hash": "759aba11705b364598b48380aeb5177f"
+        },
+        {
+            "date": 1653453839557,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-25.1",
+            "hash": "bd7caa4474e53baddc8f260f8bb39d73"
+        },
+        {
+            "date": 1653454013615,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-25.2",
+            "hash": "80f1faf3cc8fe395a27414a4e28919ff"
+        },
+        {
+            "date": 1653475946101,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-25.3",
+            "hash": "3ec49dc7b55a1a2a988c3ffe912ae3f5"
+        },
+        {
+            "date": 1653482176352,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-25.4",
+            "hash": "37b8b2171fc4b96cde7cd5ac15a87d9d"
+        },
+        {
+            "date": 1653484743440,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c/redhat.java/client.log.2022-05-25.5",
+            "hash": "2ed58b98d6d6b3e845045cde9ea14e5e"
+        }
+    ]
+}

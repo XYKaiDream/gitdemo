@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class D0430{
     public static void main(String[] args) {
         String a[] = {"1","10","3","45","65345"};
+        System.out.println();
         //º«Ë³Æ½Ñî»ÔÈý½Ç
         // long start=System.currentTimeMillis();
         // long b[][] = new long[10000][];
@@ -59,7 +60,7 @@ public class D0430{
         //         arr[i][j] = i+1;
         //     }
         // }
-        // for (int i = 0; i < b.length; i++) {
+        // for (int i =System.out.println(""); 0; i < b.length; i++) {
         //     for (int j = 0; j < b[i].length; j++) {
         //         System.out.print(b[i][j]);   
         //     }

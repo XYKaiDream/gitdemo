@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c-1/redhat.java/.5f10eee06b1d161d070748823f42c84c37f211a9-audit.json",
+    "files": [
+        {
+            "date": 1653395329267,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c-1/redhat.java/client.log.2022-05-24",
+            "hash": "2baa09c52fccb9fb97baba417f783794"
+        },
+        {
+            "date": 1653402409245,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c-1/redhat.java/client.log.2022-05-24.1",
+            "hash": "244b29033911dbb8e3e729f112ad3f13"
+        },
+        {
+            "date": 1653450960196,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c-1/redhat.java/client.log.2022-05-25",
+            "hash": "a1bfc938fa6ad7db42a7a977932f8315"
+        },
+        {
+            "date": 1653454438955,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c-1/redhat.java/client.log.2022-05-25.1",
+            "hash": "03d904ecf06bcbec232861b01c0beec6"
+        },
+        {
+            "date": 1653479614629,
+            "name": "/root/.local/share/code-server/User/workspaceStorage/40ecf17c-1/redhat.java/client.log.2022-05-25.2",
+            "hash": "bda0c7c488d12837637e4622a6d10478"
+        }
+    ]
+}

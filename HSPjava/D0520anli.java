@@ -20,6 +20,9 @@ class Computer{
 }
 class PC extends Computer{
     public String brand;
+    public String getDails() {
+        return "Cpu11的型号是:"+Cpu+"\nRAM的型号是:"+ram+"\n硬盘的型号是:"+disk;
+    }
 }
 class NotePad extends Computer{
     public String color;
